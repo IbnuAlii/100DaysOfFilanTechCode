@@ -13,6 +13,6 @@ My second step today I held the second part of my # 100 Days Of FilanTech Code C
 Link to work: [cafe menu] (https://github.com/IbnuAlii/100DaysOfFilanTechCode/tree/main)
 
 ### Day 3: October 16, 2022 
-My third step today I held the third part of my # 100 Days Of FilanTech Code Challenge, which I #learn-css-colors-by-building-a-set-of-colored-markers.
+My third step today I held the third part of my # 100 Days Of FilanTech Code Challenge, which I #learnt css-colors and built a set of colored-markers.
 
 Link to work: [css colors] (https://github.com/IbnuAlii/100DaysOfFilanTechCode/blob/main/HTML_CSS/css_colors.html)
